@@ -1,0 +1,10 @@
+git init
+git add -v
+git commit -m
+git status
+git log
+git config
+git checkout commitid
+git branch
+git branch <branch-name>
+git branch -b <new-branch>
