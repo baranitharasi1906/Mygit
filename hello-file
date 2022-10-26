@@ -1,0 +1,12 @@
+git init
+git add -v
+git commit -m "message"
+git checkout commit id
+git status
+git log
+git branch branch_name
+git checkout exixting_branch 
+git checkout -b new_branch
+git merge
+git push -u origin branch 
+git pull
